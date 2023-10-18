@@ -1,0 +1,10 @@
+README.md
+setup.py
+diffvert/__init__.py
+diffvert/configs.py
+diffvert/train.py
+diffvert.egg-info/PKG-INFO
+diffvert.egg-info/SOURCES.txt
+diffvert.egg-info/dependency_links.txt
+diffvert.egg-info/top_level.txt
+tests/test_data_format.py
